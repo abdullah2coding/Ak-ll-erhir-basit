@@ -1,0 +1,67 @@
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 4] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 4] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 4] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 1] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 4] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 2] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
+Genel Trafik Kontrolü gerçekleştirildi. Yoğunluk: 40%
+Lokasyon Bazlı Kontrol [Lokasyon: 3] Yoğunluk: 40%
